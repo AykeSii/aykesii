@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cris !</h1>
 <h3>A student aiming to become a web & applications developer!</h3>
 
+
 - 🌱 I’m currently learning **NextJS, Angular & ThreeJS.**
 
 - 👨‍💻 All of my projects are available at [cristianocerqueira.com](https://cristianocerqueira.com)
