@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [cristianocerqueira.com](https://cristianocerqueira.com)
 
-- 📫 How to reach me -> **cristianocerqueira.pro@gmail.com**
+- 📫 Reach me at **cristianocerqueira.pro@gmail.com**
 
-- 📄 Know about my experiences [CV](https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf)
+- 📄 Know about my experiences [My Curriculum Vitae](https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
