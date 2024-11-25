@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Cris !</h1>
-<h3>A student aiming to become a web & applications developer!</h3>
+<h3>EPITECH student aiming to become a web & applications developer!</h3>
 
 - 🌱 I’m currently learning **NextJS, Angular & ThreeJS.**
 
