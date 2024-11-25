@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cris !</h1>
 <h3>A student aiming to become a web & applications developer!</h3>
-
 <br />
 
 - 🌱 I’m currently learning **NextJS, Angular & ThreeJS.**
@@ -10,7 +9,6 @@
 - 📫 Reach me at **cristianocerqueira.pro@gmail.com**
 
 - 📄 Know about my experiences [My Curriculum Vitae](https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf)
-
 <br />
 
 <h3 align="left">Connect with me:</h3>
