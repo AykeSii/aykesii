@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS, Angular & ThreeJS.**
 
-- 👨‍💻 All of my projects are available at [cristianocerqueira.com](https://cristianocerqueira.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://cristianocerqueira.com)
 
 - 📫 Reach me at **cristianocerqueira.pro@gmail.com**
 
