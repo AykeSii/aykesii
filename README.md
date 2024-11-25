@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **NextJS, Angular & ThreeJS.**
 
-- 👨‍💻 All of my projects are available at [cristianocerqueira.com](cristianocerqueira.com)
+- 👨‍💻 All of my projects are available at [cristianocerqueira.com](https://cristianocerqueira.com)
 
 - 📫 How to reach me -> **cristianocerqueira.pro@gmail.com**
 
-- 📄 Know about my experiences [https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf](https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf)
+- 📄 Know about my experiences [CV](https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
