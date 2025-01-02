@@ -1,4 +1,3 @@
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiano-cerqueira" height="30" width="40" />
 <h3>Epitech student aiming to become a web & applications developer!</h3>
 
 ```
