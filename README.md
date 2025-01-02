@@ -1,4 +1,4 @@
-<h3>Epitech student aiming to become a web & applications developer!</h3>
+<img src="https://i.imgur.com/vxPboTb.png"> </img>
 
 ```
 {
