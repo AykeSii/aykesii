@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [My Curriculum Vitae](https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf)
 
-```json
+```
 {
     "profile": {
         "name": "Cristiano",
