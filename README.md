@@ -27,7 +27,6 @@
 </head>
 <body>
     <pre>
-            {	
         "profile": {
             "name": "Cristiano",
             "age": "19",
@@ -36,6 +35,5 @@
             "project": "42"
             "reach_me": "cristianocerqueira.pro@gmail.com"
         }	
-}
     </pre>
     </body>
