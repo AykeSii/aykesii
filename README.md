@@ -15,6 +15,6 @@
         "learning": "C",
         "project": "42",
         "reach_me": "cristianocerqueira.pro@gmail.com",
-        "portfolio": "cristianocerqueira.com(https://cristianocerqueira.com)"
+        "portfolio": "[cristianocerqueira.com](https://cristianocerqueira.com)"
     }
 }
