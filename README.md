@@ -15,3 +15,7 @@
         "portfolio": "cristianocerqueira.com"
     }
 }
+```
+
+<hr />
+![GitHub Streak](https://streak-stats.demolab.com/?user=aykesii&theme=radical) 
