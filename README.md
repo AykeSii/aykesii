@@ -27,13 +27,15 @@
 </head>
 <body>
     <pre>
-        "profile": {
-            "name": "Cristiano",
-            "age": "19",
-            "country": "France",
-            "learning": "C",
-            "project": "42"
-            "reach_me": "cristianocerqueira.pro@gmail.com"
-        }	
+{
+    "profile": {
+        "name": "Cristiano",
+        "age": "19",
+        "country": "France",
+        "learning": "C",
+        "project": "42"
+        "reach_me": "cristianocerqueira.pro@gmail.com"
+    }
+}
     </pre>
     </body>
