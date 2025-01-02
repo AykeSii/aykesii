@@ -21,6 +21,6 @@
 
 <div justify-content="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aykesii&theme=tokyonight&cachebuster=1)
+![GitHub Streak](![GitHub Streak](https://streak-stats.demolab.com/?user=aykesii&theme=tokyonight)
 
 <div />
