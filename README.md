@@ -9,16 +9,34 @@
 
 - 📄 Know about my experiences [My Curriculum Vitae](https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf)
 
-{	
-    "profile": {
-        "name": "Cristiano",
-        "age": "19",
-        "country": "France",
-        "learning": "C",
-        "project": "42"
-        "reach_me": "cristianocerqueira.pro@gmail.com"
-    }	
+<head>
+    <style>
+        body {
+            background-color: #1e1e2e;
+            color: #cddbf9;
+            font-family: 'Fira Code', monospace;
+            padding: 20px;
+        }
+        pre {
+            background: #252526;
+            padding: 15px;
+            border-radius: 8px;
+            overflow: auto;
+        }
+        {	
+        "profile": {
+            "name": "Cristiano",
+            "age": "19",
+            "country": "France",
+            "learning": "C",
+            "project": "42"
+            "reach_me": "cristianocerqueira.pro@gmail.com"
+        }	
 }
+    </style>
+</head>
+<body>
+    <pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
