@@ -9,7 +9,8 @@
 
 - 📄 Know about my experiences [My Curriculum Vitae](https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf)
 
-<head>
+<body>
+    <head>
     <style>
         body {
             background-color: #1e1e2e;
@@ -25,7 +26,6 @@
         }
     </style>
 </head>
-<body>
 <pre>
 {
     "profile": {
