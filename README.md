@@ -23,7 +23,11 @@
             border-radius: 8px;
             overflow: auto;
         }
-        {	
+    </style>
+</head>
+<body>
+    <pre>
+            {	
         "profile": {
             "name": "Cristiano",
             "age": "19",
@@ -33,13 +37,5 @@
             "reach_me": "cristianocerqueira.pro@gmail.com"
         }	
 }
-    </style>
-</head>
-<body>
-    <pre>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cristiano-cerqueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiano-cerqueira" height="30" width="40" /></a>
-</p>
-<a href="mailto:cristianocerqueira.pro@gmail.com" target="_blank"><img src="https://i.imgur.com/bdQCHVv.png" alt="Mail" height="40" width="40" /></a>
+    </pre>
+    </body>
