@@ -1,7 +1,5 @@
 <img src="https://i.imgur.com/vxPboTb.png"> </img>
 
-<hr />
-
 ```
 {
     "profile": {
@@ -16,8 +14,6 @@
     }
 }
 ```
-
-<hr />
 
 <div justify-content="center">
 
