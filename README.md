@@ -5,10 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://cristianocerqueira.com)
 
-- 📫 Reach me at **cristianocerqueira.pro@gmail.com**
-
-- 📄 Know about my experiences [My Curriculum Vitae](https://www.cristianocerqueira.com/files/CV_Cristiano_CERQUEIRA.pdf)
-
 ```
 {
     "profile": {
@@ -18,6 +14,7 @@
         "city": "Paris",
         "learning": "C",
         "project": "42",
-        "reach_me": "cristianocerqueira.pro@gmail.com"
+        "reach_me": "cristianocerqueira.pro@gmail.com",
+        "portfolio": "cristianocerqueira.com(https://cristianocerqueira.com)"
     }
 }
