@@ -15,6 +15,7 @@
         "name": "Cristiano",
         "age": "19",
         "country": "France",
+        "city": "Paris",
         "learning": "C",
         "project": "42",
         "reach_me": "cristianocerqueira.pro@gmail.com"
