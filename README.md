@@ -21,6 +21,6 @@
 
 <div justify-content="center">
 
-![https://streak-stats.demolab.com/?user=aykesii&theme=radical&cachebuster=1](https://github-readme-stats.vercel.app/api?username=aykesii&show_icons=true&theme=radical)
+![https://streak-stats.demolab.com/?user=aykesii&theme=radical&cachebuster=1](https://github-readme-streak-stats.herokuapp.com?user=aykesii&theme=tokyonight)
 
 <div />
