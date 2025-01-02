@@ -26,7 +26,7 @@
     </style>
 </head>
 <body>
-    <pre>
+<pre>
 {
     "profile": {
         "name": "Cristiano",
@@ -37,5 +37,5 @@
         "reach_me": "cristianocerqueira.pro@gmail.com"
     }
 }
-    </pre>
-    </body>
+</pre>
+</body>
