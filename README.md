@@ -10,7 +10,7 @@
         "country": "France",
         "city": "Paris",
         "learning": "C",
-        "project": "42",
+        "project": "Prepa 42",
         "reach_me": "cristianocerqueira.pro@gmail.com",
         "portfolio": "cristianocerqueira.com"
     }
