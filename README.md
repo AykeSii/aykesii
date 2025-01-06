@@ -27,4 +27,4 @@
 
 <br />
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/971439210718429254)](https://discord.com/users/971439210718429254)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/971439210718429254?animationDuration=4s)](https://discord.com/users/971439210718429254)
