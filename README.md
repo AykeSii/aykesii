@@ -24,7 +24,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aykesii&theme=tokyonight&cachebuster=1)
 
 <div />
-
-<br />
-
-[![Discord Presence](https://lanyard.kyrie25.dev/api/971439210718429254?animationDuration=4s)](https://discord.com/users/971439210718429254)
