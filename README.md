@@ -13,9 +13,9 @@
         "project": "Prepa 42",
         "reach_me": "cristianocerqueira.pro@gmail.com",
         "portfolio": "cristianocerqueira.com"
+        "repos": "most of my repos are private"
     }
 }
 ```
 
 <br />
-(Most of my repos are private)
