@@ -18,5 +18,4 @@
 ```
 
 <br />
-
-Most of my repos are private.
+(Most of my repos are private)
